@@ -18,4 +18,4 @@ Como refizemos essas funções, nós temos garantia de como atualizar o funciona
 - ``VSCODE``
 - ``CC``
 - ``Paradigma de programação estruturada``
-
+- ``FT_SPLIT TESTER; libftTester; war-machine``
